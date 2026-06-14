@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-precio-de-tu-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For El precio de tu olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-precio-de-tu-olvido/) |
+| **Get License** | [Get a Licensing Quote for El precio de tu olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-precio-de-tu-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, el precio de tu olvido lo pago de fiesta en la calle
+> Te busco en la disco, tu aroma se queda en el aire
+> Tú sabes que sigo sintiendo el calor de tu piel
+> Mami, tus besos me saben a fuego y a miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
