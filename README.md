@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-precio-de-tu-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for El precio de tu olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-precio-de-tu-olvido/) |
+| **Get License** | [Request Licensing for El precio de tu olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-precio-de-tu-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dbb5a75714513b023ef6dfe2b9877704a13138752590d028d9a29429c13dbaa1` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

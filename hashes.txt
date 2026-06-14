@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El precio de tu olvido
+
+This log tracks the cryptographic history and versioning for the song **El precio de tu olvido** (el-precio-de-tu-olvido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:07:40.454797 | `v1` | `dbb5a75714513b023ef6dfe2b9877704a13138752590d028d9a29429c13dbaa1` | `6841f3377922497ebc510998ad13d49a0ff17d74fd8d2d7b6ebc774bdaca1ccd` | `2026-06-14_el-precio-de-tu-olvido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
